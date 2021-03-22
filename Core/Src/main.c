@@ -141,6 +141,7 @@ int main(void)
     /* USER CODE BEGIN 3 */
 	  ldr_ch0 = adc_deger ;
 	  kontrol();
+	  //Projenin Videosu -------> https://drive.google.com/file/d/14RAp6oKjvK4yTbxcvpwe1oHGfLkvnEeQ/view?usp=sharing
 
   }
   /* USER CODE END 3 */
